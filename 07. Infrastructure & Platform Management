@@ -5,6 +5,21 @@ Hosted vs local
 
 Platforms –
 Candidate Applications (e.g., Workday)
-Communication (e.g., email, Teams/Skype/Slack)  
-Project Documentation (e.g., wiki, OneDrive, network folder)
-Teleconferencing (e.g., Zoom, Google Meeting)
+- work with HR to set up application process?
+- depends on whether participants are hired or students?
+Communication (e.g., email, Teams/Skype/Slack)
+- Teams/Skype: consider Teams/Skype integration with enterprise network? will program participants need enterprise credentials to access this functionality? do external stakeholders need access?
+- Slack: consider 6 month/10k message limit for free version and cost for permanent version. Do you need ongoing storage of these conversations? Who will admin this platform?
+Project Documentation (e.g., wiki, OneDrive/Teams/Sharepoint, network folder)
+- Microsoft: wiki functionality through Teams, folder functionality through OneDrive/Teams/Sharepoint
+Software Development (e.g., RStudio, Jupyter, GitHub)
+- Anaconda-Jupyter/RStudio - open source, free to install locally
+- GitHub - will free version suffice? 
+
+Visualization Tools (e.g., Tableau, PowerBI, Gephi)
+
+Teleconferencing (e.g., Zoom, Google Meeting, conference calls)
+- what does your org have?
+- office hours
+- limits on # of visible meeting participants
+
