@@ -1,5 +1,26 @@
 IX. Presentations & Symposium 
-    * Poster templates
-    * Website/web app template
+    * Project Presentations
+    * Presentation materials (e.g., Poster templates, Website/web app template) 
+    * Symposium
+    * Deliverables (e.g., poster, data products, websites, reports/Sage brief) 
 
-the written report deliverable? (e.g., Sage brief)
+## Project Presentations
+
+Things to consider:
+
+    * Is the use of stakeholder logos permitted/required? 
+    * Is signoff needed from external groups prior to presentation? Data vendors/provider, project stakeholders, etc. If so, by what date?
+    * What data products can be made available externally? Will these meet the data sharing agreements of the data vendor/provider? 
+    
+Presentation Materials
+
+    * poster templates - use of powerpoint?
+    * website/web app templates - use of Shiny and Rmarkdown (free, what are the limits?) 
+
+## Symposium
+
+   * Virtual/in person considerations (e.g., platform, meeting security, logistics of agenda)
+       * last minute posting of links + passwords 
+   * Speakers
+   * Media team (e.g., branding, programs/flyers, marketing, blogs/interviews/writeups) 
+
