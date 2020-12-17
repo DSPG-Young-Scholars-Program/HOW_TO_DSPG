@@ -60,4 +60,9 @@ Initial Outline
         * Written reports (e.g., Sage brief)
     * Evaluation
         *  Survey success in phases – start, midpoint, end
+    * Lessons Learned
+        * Feedback from stakeholders
+        * Feedback from participants
+        * Challenges of virtual implementation through pandemic 2020
+        
 
