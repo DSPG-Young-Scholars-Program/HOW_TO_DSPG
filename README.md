@@ -1,4 +1,4 @@
-## HOW_TO_DSPG
+## HOW TO DSPG: A DSPG Program Blueprint/Resource Archive
 
 Place to document the process of putting together the Data Science for the Public Good program. 
 
